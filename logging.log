@@ -1,0 +1,6 @@
+2022/07/28 01:49:30 PM INFO: [*] Attempt #1 with user: 'jay.tigas.10' and password: 'jayson1997'.
+2022/07/28 01:49:30 PM INFO: [!] Caught an Exception: 'NoneType' object has no attribute 'input'
+2022/07/28 01:49:30 PM INFO: [*] Attempt #2 with user: 'jay.tigas.10' and password: 'jaysontigas'.
+2022/07/28 01:49:31 PM INFO: [!] Caught an Exception: 'NoneType' object has no attribute 'input'
+2022/07/28 01:49:31 PM INFO: [-] No Password was Found.
+2022/07/28 01:49:31 PM INFO: Took 1.42 seconds to complete this operation.
